@@ -42,7 +42,7 @@ export default function Home() {
             Umbria, Italy
           </span>
           <h1 className="font-serif italic text-5xl md:text-7xl lg:text-8xl leading-[1.1] mb-8">
-            “Non abbiamo nulla ma txt: <br />
+            “Non abbiamo nulla: <br />
             <span className="text-blue-200">perciò abbiamo tutto.</span>”
           </h1>
           <motion.div
